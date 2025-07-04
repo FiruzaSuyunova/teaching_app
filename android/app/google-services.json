@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248394168950",
+    "project_id": "teaching-app-556c7",
+    "storage_bucket": "teaching-app-556c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248394168950:android:666af340b812797c3a7d57",
+        "android_client_info": {
+          "package_name": "com.example.teaching_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Ro6VQdnIVaVnnWB7Eh4VMnsf92EHXag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
